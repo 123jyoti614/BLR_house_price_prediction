@@ -61,7 +61,7 @@ The real estate market in Bengaluru is diverse and highly location-dependent. Th
 ## 📈 Results
 
 - Final model uses Linear Regression with L2 regularization
-- R² Score on test data: ~0.85 (depending on random split)
+- R² Score on test data: ~0.90 (depending on random split)
 - Predictive performance is reasonable for real-world use cases
 - Model successfully handles location-based variation in pricing
 
@@ -74,7 +74,6 @@ The real estate market in Bengaluru is diverse and highly location-dependent. Th
 - Use advanced models like XGBoost or Random Forest for comparison
 - Use external APIs for live pricing updates
 
----
 
-## 📁 Repository Structure
+
 
